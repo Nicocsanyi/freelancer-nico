@@ -20,7 +20,7 @@
 	/* Fonts */
 
 		h1 {
-			font-family: "Avant Garde Gothic", Arial, sans-serif;
+			font-family: 'Roboto', sans-serif;
 			font-style: normal;
 			font-weight: 500;
 			font-size: 100px;
@@ -35,7 +35,7 @@
 			}
 
 		h2 {
-			font-family: "Avant Garde Gothic", Arial, sans-serif;
+			font-family: 'Roboto', sans-serif;
 			font-style: normal;
 			font-weight: 500;
 			font-size: 38px;
@@ -45,7 +45,7 @@
 		}
 
 		h3 {
-			font-family: "Apercu", sans-serif;
+			font-family: 'Roboto', sans-serif;
 			font-style: normal;
 			font-weight: 200;
 			font-size: 18px;
@@ -258,7 +258,7 @@
 			}
 
 				.menu li {
-					font-family: "Apercu", sans-serif;
+					font-family: 'Roboto', sans-serif;
 					font-style: normal;
 					font-weight: 400;
 					font-size: 14px;
@@ -284,7 +284,7 @@
 					}
 
 					.tag {
-						font-family: "Apercu", sans-serif;
+						font-family: 'Roboto', sans-serif;
 						font-style: normal;
 						font-weight: 400;
 						font-size: 8px;
@@ -355,7 +355,7 @@
 				}
 
 					.button-container {
-						font-family: "Apercu", sans-serif;
+						font-family: 'Roboto', sans-serif;
 						font-style: normal;
 						font-weight: 400;
 						font-size: 15px;
@@ -446,7 +446,7 @@
 				}
 
 					.id-name {
-						font-family: "Apercu", sans-serif;
+						font-family: 'Roboto', sans-serif;
 						font-style: normal;
 						font-weight: 400;
 						font-size: 10px;
@@ -458,7 +458,7 @@
 					}
 
 					.id-profession {
-						font-family: "Apercu", sans-serif;
+						font-family: 'Roboto', sans-serif;
 						font-style: normal;
 						font-weight: 200;
 						font-size: 10px;
@@ -525,7 +525,7 @@
 						}
 
 						.gallery-note {
-							font-family: "Apercu", sans-serif;
+							font-family: 'Roboto', sans-serif;
 							font-style: normal;
 							font-weight: 200;
 							font-size: 12px;
